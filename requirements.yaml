@@ -2,28 +2,31 @@
 # Feel free to add new packages, BUT make sure it does not inovke any conflicts
 # ########################################################################
 # 
-# To create the 'pfe' environment run the following command:
-# 
-#   conda env create -f <PATH-To-File>/requirements.yml
+# To create the 'pfe-env' environment run the following command:
+#   conda deactivate
+#   conda env create -f <PATH-To-File>/requirements.yaml
 #
 # 
 # To update the environment in case new packages have been added here:
 # 
 #   conda deactivate base   (in case the environment is not activated)
-#   conda activate pfe      (in case the environment is not activated)
-#   conda env update -n pfe --file <PATH-To-File>/requirements.yml
+#   conda activate pfe-env      (in case the environment is not activated)
+#   conda env update -n pfe-env --file <PATH-To-File>/requirements.yaml
 # 
 # ########################################################################
 #
-name: pfe
+name: pfe-env
 channels:
   - anaconda
   - conda-forge
   - defaults
 dependencies:
+  - python=3.8.*
   - matplotlib
   - pandas
   - scikit-learn
   - seaborn
   - notebook
   - jupyter_contrib_nbextensions
+  - nltk
+  - gensim
