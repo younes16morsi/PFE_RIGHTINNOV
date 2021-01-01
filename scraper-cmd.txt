@@ -1,0 +1,7 @@
+iPhone 12: (release date 12 Octobre 2020) - 43200 tweets (fr)
+snscrape --jsonl --progress --since 2020-10-12 twitter-search "iphone 12 lang:fr" > iphone-12-tweets-fr.json
+snscrape --jsonl --progress --since 2019-10-12 twitter-search "iphone 12 lang:en" > iphone-12-tweets-en.json
+
+iPhone 11: (release date 20 September 2019) -  111700 tweets (fr)
+snscrape --jsonl --progress --since 2019-09-20 twitter-search "iphone 11 lang:fr" > iphone-11-tweets-fr.json
+snscrape --jsonl --progress --since 2019-09-20 twitter-search "iphone 11 lang:en" > iphone-11-tweets-en.json
