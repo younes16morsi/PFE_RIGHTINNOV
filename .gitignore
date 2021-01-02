@@ -4,3 +4,6 @@ input/*.json
 
 # ignorer les fichiers log
 *.log
+
+# ignorer les dossier checkoint de Jupyter
+*.ipynb_checkpoints
