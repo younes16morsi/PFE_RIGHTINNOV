@@ -1,2 +1,3 @@
 # ignorer les fichiers csv dans le repertoire input
 input/*.csv
+input/*.json
