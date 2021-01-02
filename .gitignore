@@ -1,3 +1,6 @@
-# ignorer les fichiers csv dans le repertoire input
+# ignorer les fichiers csv et json dans le repertoire input
 input/*.csv
 input/*.json
+
+# ignorer les fichiers log
+*.log
