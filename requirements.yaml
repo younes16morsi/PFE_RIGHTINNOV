@@ -33,3 +33,5 @@ dependencies:
   - conda-forge::spacy
   - conda-forge::spacy-lookups-data
   - conda-forge::pyldavis
+  - pip:
+    - demoji
