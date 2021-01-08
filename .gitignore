@@ -7,3 +7,6 @@ input/*.json
 
 # ignorer les dossier checkoint de Jupyter
 *.ipynb_checkpoints
+
+# apart ces fichiers
+!abrivot_fr.json
