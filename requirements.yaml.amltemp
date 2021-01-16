@@ -35,4 +35,5 @@ dependencies:
   - conda-forge::pyldavis
   - pip
   - pip:
+    - python-rake
     - demoji
