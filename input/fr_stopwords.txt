@@ -126,3 +126,7 @@ slm
 putain
 merde
 frere
+maman
+père
+papa
+mama
