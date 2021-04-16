@@ -27,6 +27,7 @@ doit
 donc
 dos
 début
+debut
 elle
 elles
 en
@@ -59,8 +60,10 @@ moins
 mon
 mot
 même
+meme
 ni
 nommés
+nomees
 notre
 nous
 ou
@@ -70,6 +73,7 @@ parce
 pas
 peut
 peu
+px
 plupart
 pour
 pourquoi
@@ -103,6 +107,7 @@ tous
 tout
 trop
 très
+tres
 tu
 voient
 vont
@@ -110,13 +115,24 @@ votre
 vous
 vu
 ça
+ca
 étaient
+etaient
 état
+etat
 étions
+etions
 été
+ete
 être
+etre
 mdrr
 mddr
+mdr
+mdrrrrrrr
+mdrrr
+mdrrrr
+mdrrrrr
 ptdrr
 lol
 hihi
@@ -124,12 +140,23 @@ haha
 wow
 wsh
 slm
+salem
 putain
 merde
 frere
 maman
 père
+pere
 papa
 mama
 mort de rire
 mort de rir
+oui
+non
+bonjour
+bonsoir
+salut
+voila
+chose
+truc
+jcsatana
