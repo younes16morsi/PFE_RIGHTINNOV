@@ -163,3 +163,7 @@ jcsatana
 cherie
 monsieur
 madame
+coup
+semaine
+jour
+mois
