@@ -167,3 +167,5 @@ coup
 semaine
 jour
 mois
+daron
+gars
